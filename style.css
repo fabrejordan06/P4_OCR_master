@@ -1049,3 +1049,19 @@ h4 {
     margin: 0 100px;
     gap: 10px;
 }
+
+.col-sm-6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.container .bloc-lg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    height: 300px;
+}
