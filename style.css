@@ -1058,22 +1058,11 @@ h4 {
 }
 
 .container .bloc-lg{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
     padding: 0;
     height: 300px;
 }
 
 #bloc-6 > div{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.orangebloc{
     display: flex;
     flex-direction: column;
     align-items: center;
