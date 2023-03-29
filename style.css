@@ -677,7 +677,7 @@ p {
 
 .tight-width-whitespace {
     max-width: 600px;
-    margin: auto auto auto auto;
+    margin: 0;
 }
 
 .h1 {
@@ -1064,4 +1064,6 @@ h4 {
     justify-content: center;
     padding: 0;
     height: 300px;
+    display: flex;
+    justify-content: center;
 }
